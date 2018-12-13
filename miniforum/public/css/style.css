@@ -1,0 +1,38 @@
+.post {
+    background-color: #FCFBF6;
+    border: 1px solid #E3E3C8;
+}
+
+.post, .post-answer, .post-preview {
+    padding: 6px;
+    margin-top: 8px;
+    color: #333;
+    border-radius: 5px;
+    box-shadow: 4px 3px 9px lightgrey;
+}
+
+.post-info, .post-answer-info {
+    padding-bottom: 2px;
+    margin-bottom: 7px;
+    padding-left: 20px;
+}
+
+.post-info {
+    background: url(../img/page_white_text.png) 0 8px no-repeat;
+    border-bottom: 1px solid #E3E3C8;
+}
+
+.post-answer {
+    background-color: #F6FBFC;
+    border: 1px solid #C8E3E3;
+}
+
+.post-answer-info {
+    background: url(../img/comment.png) 0 8px no-repeat;
+    border-bottom: 1px solid #C8E3E3;
+}
+
+.img_user {
+    width: 37px;
+    border-radius: 43px;
+}
